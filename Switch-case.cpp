@@ -27,7 +27,6 @@ string getdayname(int a)
     break;
     default:
     return "Invalid Choice";
-    break;
     }
 }
 int main()
